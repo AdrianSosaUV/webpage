@@ -1,0 +1,18 @@
+---
+layout: null
+sitemap:
+exclude: 'yes'
+---
+
+/* TEAM */
+Developer & Designer: Josh Gerdes
+User: Adrián Sosa
+Twitter: @AdrinSo24822337
+Site: http://adriansosa.net
+Location: Xalapa, Ver, MEX
+
+/* SITE */
+Last update: {{ site.time | date: "%Y/%m/%d" }}
+Standards: HTML5, CSS3
+Components: Jekyll
+Software: VS Code, Photoshop
